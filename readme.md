@@ -12,7 +12,6 @@
 - [Feature Selection](#feature-selection)
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
-- [Contributors](#contributors)
 - [License](#license)
 
 ## Description
