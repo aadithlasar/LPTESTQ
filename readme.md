@@ -34,7 +34,7 @@ To run the Duplicate Question Pairs Checker project on your local machine, follo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/duplicate-question-pairs.git
+   git clone https://github.com/aadithlasar/LPTESTQ.git
    cd duplicate-question-pairs
    ```
 
@@ -91,13 +91,6 @@ The model is trained using a labeled dataset containing pairs of questions label
 ## Evaluation
 
 Model performance is evaluated using appropriate evaluation metrics, such as accuracy, precision, recall, F1-score, and ROC curves. The evaluation process helps to determine the effectiveness of the model in identifying duplicate question pairs.
-
-## Contributors
-
-- John Doe (Team Lead, NLP Expert)
-- Jane Smith (Machine Learning Specialist)
-- Michael Johnson (Data Cleaning and Preprocessing)
-- Emily Brown (Evaluation and Metrics)
 
 ## License
 
